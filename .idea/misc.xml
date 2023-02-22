@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jovan/AndroidStudioProjects/quickChat/app/src/main/res/layout/activity_intro.xml" value="0.22" />
+        <entry key="..\:/Users/Jovan/AndroidStudioProjects/quickChat/app/src/main/res/layout/activity_login.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Jovan/AndroidStudioProjects/quickChat/app/src/main/res/layout/activity_main.xml" value="0.2033514492753623" />
+        <entry key="..\:/Users/Jovan/AndroidStudioProjects/quickChat/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Users/Jovan/AndroidStudioProjects/quickChat/app/src/main/res/layout/activity_splash_screen.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

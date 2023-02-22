@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101127477259",
+    "project_id": "quickchat-efc5d",
+    "storage_bucket": "quickchat-efc5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101127477259:android:4b0d1d3d05660b890b4f0e",
+        "android_client_info": {
+          "package_name": "com.example.quickchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101127477259-3v9f9k2tmbncfll2gnvjhibve56dd12v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6zZxhXYiqneTK1s-VR6oTWYFH6GgVY1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101127477259-3v9f9k2tmbncfll2gnvjhibve56dd12v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
